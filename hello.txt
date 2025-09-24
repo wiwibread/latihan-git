@@ -1,2 +1,4 @@
 Hello world
 Baris kedua ditambahkan
+jika ada petir
+aaaa
